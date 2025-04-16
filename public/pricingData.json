@@ -1,0 +1,45 @@
+[
+	{
+	  "id": 1,
+	  "name": "Basic Plan",
+	  "price": 1500,
+	  "popular":false,
+	  "description": "Ideal for beginners or those who work out occasionally. Limited hours access with essential benefits.",
+	  "features": [
+		"Access to gym during off-peak hours (10am–4pm)",
+		"Use of cardio and strength equipment",
+		"1 free fitness consultation",
+		"No contract, cancel anytime"
+	  ]
+	},
+	{
+	  "id": 2,
+	  "name": "Standard Plan",
+	  "price": 2500,
+	  "popular":true,
+	  "description": "Perfect for regular gym-goers. Includes group classes and personal training support.",
+	  "features": [
+		"Full access to gym (all hours)",
+		"Group fitness classes (e.g., yoga, Zumba, HIIT)",
+		"2 personal training sessions per month",
+		"Locker and shower access",
+		"Monthly progress tracking"
+	  ]
+	},
+	{
+	  "id": 3,
+	  "name": "Premium Plan",
+	  "price": 4000,
+	  "popular":false,
+	  "description": "For serious fitness enthusiasts. Full access, training, and additional perks included.",
+	  "features": [
+		"24/7 gym access",
+		"Unlimited group classes",
+		"1-on-1 personal training (4 sessions/month)",
+		"Nutrition & diet consultation",
+		"Priority locker and personal trainer booking",
+		"Free gym merchandise (t-shirt/water bottle)"
+	  ]
+	}
+  ]
+  

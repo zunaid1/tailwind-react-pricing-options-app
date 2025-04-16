@@ -5,7 +5,7 @@ const Link = ({ route }) => {
 	const { path, name } = route;
 
 	return (
-		<li className='text-2xl bg-amber-800 text-white'>
+		<li className='text-2xl text-black'>
 			<a href={path}>{name}</a>
 		</li>
 	);
